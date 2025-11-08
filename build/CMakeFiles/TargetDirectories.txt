@@ -1,3 +1,0 @@
-/home/anice03/main/Student-Grade-Manager/build/CMakeFiles/StudentManager.dir
-/home/anice03/main/Student-Grade-Manager/build/CMakeFiles/edit_cache.dir
-/home/anice03/main/Student-Grade-Manager/build/CMakeFiles/rebuild_cache.dir
